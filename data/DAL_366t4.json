@@ -9,44 +9,6 @@
     "collectible": false,
     "cost": 6,
     "text": "하수인을 처치합니다.<br></br>그 하수인이 자신의<br></br>공격력만큼 양옆의 하수인들을<br></br>공격하게 만듭니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS16-131.psd:518ede15853c4eed83a9bcb06a523429",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DAL_366t4.png"
+    "classes": []
   }
 }

@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DAL_011",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-04-10",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-04-10": {
+        "flavor": "\"무슨 꿈을 꾸고 있는 거지? 약한 너의 비명 소리가 들리는구나! 나의 계략에 빠진 게 분명해...\"",
+        "portrait": "HS16-144.psd:9c50a2a05acd4aacad5dd8c907c5ff41",
+        "set": "DALARAN",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ],
+        "art": "art/DAL_011.png"
+      }
+    }
+  }
+}

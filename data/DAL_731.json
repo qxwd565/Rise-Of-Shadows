@@ -9,44 +9,6 @@
     "collectible": true,
     "cost": 5,
     "text": "각 플레이어의 덱에서<br></br>하수인을 소환합니다.<br></br>그 하수인들이<br></br>서로 싸웁니다!",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "대충 알아들었지? 지금부터 서로 죽여라.",
-    "spellSchool": "",
-    "portrait": "HS16-119.psd:503d974e97a640dd990f8dc4f3b7ff6a",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DAL_731.png"
+    "classes": []
   }
 }

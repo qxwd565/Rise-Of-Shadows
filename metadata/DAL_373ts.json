@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DAL_373ts",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-04-10",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-04-10": {
+        "flavor": "",
+        "portrait": "HS16-105.psd:97d4e2247a564be1b1ec91da41d636f4",
+        "set": "DALARAN",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 0
+          }
+        ],
+        "art": "art/DAL_373ts.png"
+      }
+    }
+  }
+}

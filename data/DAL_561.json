@@ -11,64 +11,10 @@
     "text": "내 손에 이 카드가 있으면, 아군 악마가 죽을 때마다 비용이 (1) 감소합니다.",
     "attack": 8,
     "health": 8,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"몸집도 크고 엄청 사악하다고!\"",
-    "spellSchool": "",
-    "portrait": "HS16-056.psd:1e536171088e416d99c87613b04d81cf",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 10
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1965,
-        "name": "임프",
-        "value": 1
-      }
-    ],
     "races": [
       "DEMON"
     ],
     "race": "악마",
-    "classes": [],
-    "art": "art/DAL_561.png"
+    "classes": []
   }
 }

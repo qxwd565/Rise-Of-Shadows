@@ -9,64 +9,6 @@
     "collectible": true,
     "cost": 4,
     "text": "하수인에게 피해를 $4 줍니다. 내 손에 다른 직업의 카드가 있으면, 비용이 (0)이 됩니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "보라! 범죄와 불의를 벌하러 부름을 받아 복수심에 불타는 비정한 비수를!",
-    "spellSchool": "",
-    "portrait": "HS16-065.psd:8b8f89f8f25d4137b12a157cb5b0d739",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DAL_716.png"
+    "classes": []
   }
 }

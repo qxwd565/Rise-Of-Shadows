@@ -1,0 +1,87 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DAL_357t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-04-10",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-04-10": {
+        "flavor": "",
+        "portrait": "HS16-103.psd:a91ca13d3ebc45b48beafdcf56fb1eb4",
+        "set": "DALARAN",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 5
+          },
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 11
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 402,
+            "name": "능력치 숨김",
+            "value": 1
+          },
+          {
+            "id": 448,
+            "name": "대상 지정 불가",
+            "value": 1
+          },
+          {
+            "id": 451,
+            "name": "점수 수치 1",
+            "value": 5
+          },
+          {
+            "id": 1090,
+            "name": "휴면 시각 효과",
+            "value": 1
+          },
+          {
+            "id": 1142,
+            "name": "마우스 카드 표시 방식",
+            "value": 4
+          },
+          {
+            "id": 1518,
+            "name": "휴면",
+            "value": 1
+          },
+          {
+            "id": 1519,
+            "name": "휴면 해제 조건 효과",
+            "value": 1
+          }
+        ],
+        "art": "art/DAL_357t.png"
+      }
+    }
+  }
+}

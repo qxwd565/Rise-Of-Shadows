@@ -8,54 +8,6 @@
     "collectible": false,
     "cost": 2,
     "text": "<b>뽑을 때 시전</b><br></br><b>속공</b> 능력이 있는<br></br>2/2 지옥사냥개를 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS16-159.psd:81186f338b3740b1b04da1423c4501af",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 0
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      },
-      {
-        "id": 1077,
-        "name": "뽑을 때 시전",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DAL_582t.png"
+    "classes": []
   }
 }

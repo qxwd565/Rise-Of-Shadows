@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 0,
     "text": "내 다음 턴까지<br></br>적 하수인의 공격력을<br></br>1 감소시킵니다.<br></br><i>(내 턴마다 강화됩니다!)</i>",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"무슨 꿈을 꾸고 있는 거지? 약한 너의 비명 소리가 들리는구나! 나의 계략에 빠진 게 분명해...\"",
     "spellSchool": "SHADOW",
-    "portrait": "HS16-144.psd:9c50a2a05acd4aacad5dd8c907c5ff41",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 1
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DAL_011.png"
+    "classes": []
   }
 }

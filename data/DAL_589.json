@@ -9,44 +9,6 @@
     "collectible": true,
     "cost": 5,
     "text": "내 손에 있는 모든 야수를 복사합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "정말 신나는 사냥입니다.",
-    "spellSchool": "",
-    "portrait": "HS16-111.psd:0bcdd7ec83c44be9b03a8126c60d2ea7",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DAL_589.png"
+    "classes": []
   }
 }

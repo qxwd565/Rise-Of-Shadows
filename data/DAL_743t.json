@@ -10,54 +10,10 @@
     "text": "",
     "attack": 1,
     "health": 1,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS16-008.psd:bf57c8b841344482a2cf85d2a53ba902",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 1440,
-        "name": "선술집 단계",
-        "value": 1
-      }
-    ],
     "races": [
       "MURLOC"
     ],
     "race": "멀록",
-    "classes": [],
-    "art": "art/DAL_743t.png"
+    "classes": []
   }
 }

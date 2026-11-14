@@ -11,69 +11,10 @@
     "text": "내가 주문을 시전한 후에, 무작위 적 하수인에게 피해를 1 줍니다.",
     "attack": 1,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "마르지 않는 침샘을 가지고 있습니다.",
-    "spellSchool": "",
-    "portrait": "HS16-032.psd:6bc3509df35c4fe8a4d1a3d17fe8a642",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "BEAST"
     ],
     "race": "야수",
-    "classes": [],
-    "art": "art/DAL_182.png"
+    "classes": []
   }
 }

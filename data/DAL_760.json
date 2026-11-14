@@ -11,62 +11,6 @@
     "text": "<b>속공</b>",
     "attack": 9,
     "health": 9,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "삽은 보랑 바위 이긴다!",
-    "spellSchool": "",
-    "portrait": "HS16-154.psd:ebf9f29e560043e4b2c695f31b63ee9b",
-    "set": "DALARAN",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 9
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 9
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 9
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/DAL_760.png"
+    "classes": []
   }
 }
