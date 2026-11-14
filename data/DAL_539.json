@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_539","dbfId":52307,"name":"선리버 전쟁마법사","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":5,"text":"<b>전투의 함성:</b><br></br>내 손에 비용이 (5)<br></br>이상인 주문이 있으면,<br></br>피해를 4 줍니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"결코 다시 전쟁!","spellSchool":"","portrait":"HS16-037.psd:08543dafc33141878b24f1ef255d6f9c","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_539.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-037.psd:08543dafc33141878b24f1ef255d6f9c","goldenMaterial":"DAL_539_PremiumCard.mat:5c7787c7b485e8340b7efc4f482c55e7","goldenAnimation":"DAL_539_PremiumCard.asset:e0622b39751636d49ae1654af09651fe"}}
+{
+  "2019-04-10": {
+    "id": "DAL_539",
+    "dbfId": 52307,
+    "name": "선리버 전쟁마법사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b><br></br>내 손에 비용이 (5)<br></br>이상인 주문이 있으면,<br></br>피해를 4 줍니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "결코 다시 전쟁!",
+    "spellSchool": "",
+    "portrait": "HS16-037.psd:08543dafc33141878b24f1ef255d6f9c",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_539.png"
+  }
+}

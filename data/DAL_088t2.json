@@ -1,1 +1,83 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_088t2","dbfId":53013,"name":"귀중품 금고","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":2,"text":"<b>도발</b>","attack":0,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-071.psd:5fbc19623b35464387bce9367d4c43b3","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":321,"name":"수집 가능","value":0},{"id":330,"name":"효과 생성 시각 효과","value":1},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1440,"name":"선술집 단계","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/DAL_088t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-071.psd:5fbc19623b35464387bce9367d4c43b3","goldenMaterial":"DAL_088t2_PremiumCard.mat:f81162f6a49933f4b8bffb94ca2d9836","goldenAnimation":"DAL_088t2_PremiumCard.asset:a383ef9a9e73dba45bf8cff3d3c90e45"}}
+{
+  "2019-04-10": {
+    "id": "DAL_088t2",
+    "dbfId": 53013,
+    "name": "귀중품 금고",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>도발</b>",
+    "attack": 0,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-071.psd:5fbc19623b35464387bce9367d4c43b3",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1440,
+        "name": "선술집 단계",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/DAL_088t2.png"
+  }
+}

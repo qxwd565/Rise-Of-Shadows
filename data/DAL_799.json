@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_799","dbfId":53179,"name":"수정 수사슴","type":"MINION","cardClass":"DRUID","rarity":"EPIC","collectible":true,"cost":5,"text":"<b>속공</b>, <b>전투의 함성:</b> 이번 게임에서 생명력을 5 이상 회복했으면, 이 하수인을 복사하여 소환합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"올 때는 혼자였지만 갈 때는 둘입니다.","spellSchool":"","portrait":"HS16-099.psd:c33a2bc227fc40fd85563daf3d5a9688","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1115,"name":"플레이어 조건 태그 ID","value":958},{"id":1116,"name":"플레이어 조건 수치","value":5}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DAL_799.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-099.psd:c33a2bc227fc40fd85563daf3d5a9688","goldenMaterial":"DAL_799_PremiumCard.mat:e41f1f31f4a376b4ea4d62becb056e27","goldenAnimation":"DAL_799_PremiumCard.asset:61e860815987a0247b584309a7693dda"}}
+{
+  "2019-04-10": {
+    "id": "DAL_799",
+    "dbfId": 53179,
+    "name": "수정 수사슴",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>속공</b>, <b>전투의 함성:</b> 이번 게임에서 생명력을 5 이상 회복했으면, 이 하수인을 복사하여 소환합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "올 때는 혼자였지만 갈 때는 둘입니다.",
+    "spellSchool": "",
+    "portrait": "HS16-099.psd:c33a2bc227fc40fd85563daf3d5a9688",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1115,
+        "name": "플레이어 조건 태그 ID",
+        "value": 958
+      },
+      {
+        "id": 1116,
+        "name": "플레이어 조건 수치",
+        "value": 5
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DAL_799.png"
+  }
+}

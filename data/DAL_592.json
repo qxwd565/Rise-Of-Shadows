@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_592","dbfId":53251,"name":"공성두","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":8,"text":"<b>속공</b>, 이 하수인은 공격하여 다른 하수인을 처치한 후에 다시 공격할 수 있습니다.","attack":3,"health":12,"durability":0,"armor":0,"flavor":"머리를 쓰라고 했더니...","spellSchool":"","portrait":"HS16-019.psd:c1c9c36d50514baea8c727838f4d6151","set":"DALARAN","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":12},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_592.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-019.psd:c1c9c36d50514baea8c727838f4d6151","goldenMaterial":"DAL_592_PremiumCard.mat:721c26e9fd643c641bd97aabc23007cd","goldenAnimation":"DAL_592_PremiumCard.asset:be674e92a97a4de4eb5750b6d265604f"}}
+{
+  "2019-04-10": {
+    "id": "DAL_592",
+    "dbfId": 53251,
+    "name": "공성두",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>속공</b>, 이 하수인은 공격하여 다른 하수인을 처치한 후에 다시 공격할 수 있습니다.",
+    "attack": 3,
+    "health": 12,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "머리를 쓰라고 했더니...",
+    "spellSchool": "",
+    "portrait": "HS16-019.psd:c1c9c36d50514baea8c727838f4d6151",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 12
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_592.png"
+  }
+}

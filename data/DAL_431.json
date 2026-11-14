@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_431","dbfId":52409,"name":"늪지여왕 하가사","type":"MINION","cardClass":"SHAMAN","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> 5/5 악령을<br></br>내 손으로 가져옵니다. 그 하수인에게 주술사 주문을 둘 가르칩니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"라팜이 하가사와 손을 잡은 이유 중 하나는 박사 붐의 농담에 웃어주지 않기 때문입니다.","spellSchool":"","portrait":"HS16-147.psd:c068a37dd9714071aa5468c6bb3783b8","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":52812}],"races":[],"race":"","classes":[],"art":"art/DAL_431.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-147.psd:c068a37dd9714071aa5468c6bb3783b8","goldenMaterial":"DAL_431_PremiumCard.mat:9faef171d6fe6964f91d65cff6a49f17","goldenAnimation":"DAL_431_PremiumCard.asset:115cb162a4095634f96fcb4acaa939da"}}
+{
+  "2019-04-10": {
+    "id": "DAL_431",
+    "dbfId": 52409,
+    "name": "늪지여왕 하가사",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> 5/5 악령을<br></br>내 손으로 가져옵니다. 그 하수인에게 주술사 주문을 둘 가르칩니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "라팜이 하가사와 손을 잡은 이유 중 하나는 박사 붐의 농담에 웃어주지 않기 때문입니다.",
+    "spellSchool": "",
+    "portrait": "HS16-147.psd:c068a37dd9714071aa5468c6bb3783b8",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 52812
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_431.png"
+  }
+}

@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_173","dbfId":51966,"name":"암흑의 시간","type":"SPELL","cardClass":"WARLOCK","rarity":"EPIC","collectible":true,"cost":6,"text":"<b>모든</b> 아군 하수인을 처치합니다. 처치한만큼 내 덱에서 무작위 하수인을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"불 켜기 직전이 가장 어두운 법이지요.","spellSchool":"SHADOW","portrait":"HS16-139.psd:7b19eeecfdab4aec91daafe22d30d0d0","set":"DALARAN","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/DAL_173.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-139.psd:7b19eeecfdab4aec91daafe22d30d0d0","goldenMaterial":"DAL_173_PremiumCard.mat:cc9b3e707a3ea3344b00e0d34754ad4e","goldenAnimation":"DAL_173_PremiumCard.asset:98694424eea82cd4cbef2f8cb4734c57"}}
+{
+  "2019-04-10": {
+    "id": "DAL_173",
+    "dbfId": 51966,
+    "name": "암흑의 시간",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>모든</b> 아군 하수인을 처치합니다. 처치한만큼 내 덱에서 무작위 하수인을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "불 켜기 직전이 가장 어두운 법이지요.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS16-139.psd:7b19eeecfdab4aec91daafe22d30d0d0",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_173.png"
+  }
+}

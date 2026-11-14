@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_548","dbfId":52415,"name":"아제라이트 정령","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":5,"text":"내 턴이 시작될 때, <b>주문 공격력 +2</b>를 얻습니다.","attack":2,"health":7,"durability":0,"armor":0,"flavor":"저건 해로운 정령이다.","spellSchool":"","portrait":"HS16-166.psd:69f2eb8897664ee68d777c51ce6f8acd","set":"DALARAN","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":192,"name":"주문 공격력","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/DAL_548.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-166.psd:69f2eb8897664ee68d777c51ce6f8acd","goldenMaterial":"DAL_548_PremiumCard.mat:ac7bac98d10213f4296320ebd0ef8a71","goldenAnimation":"DAL_548_PremiumCard.asset:23487e9ebb7ad724f8fad840ed66596b"}}
+{
+  "2019-04-10": {
+    "id": "DAL_548",
+    "dbfId": 52415,
+    "name": "아제라이트 정령",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "내 턴이 시작될 때, <b>주문 공격력 +2</b>를 얻습니다.",
+    "attack": 2,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "저건 해로운 정령이다.",
+    "spellSchool": "",
+    "portrait": "HS16-166.psd:69f2eb8897664ee68d777c51ce6f8acd",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/DAL_548.png"
+  }
+}

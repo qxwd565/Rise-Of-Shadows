@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_008","dbfId":51372,"name":"박사 붐의 계략","type":"SPELL","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":4,"text":"방어도를 +1 얻습니다. <i>(내 턴마다 강화됩니다!)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"해냈어! 금고를 터트렸다고!\" \"금고 문이지 않았나요?\" \"아, 문을 터트리랬나...?\"","spellSchool":"","portrait":"HS16-026.psd:5ec663526d0d49859ab79ad2129b3ee4","set":"DALARAN","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_008.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-026.psd:5ec663526d0d49859ab79ad2129b3ee4","goldenMaterial":"DAL_008_PremiumCard.mat:5bdc573427864714a92822cc49828968","goldenAnimation":"DAL_008_PremiumCard.asset:dafc6aa50a20ce24c8029e7b22ac477b"}}
+{
+  "2019-04-10": {
+    "id": "DAL_008",
+    "dbfId": 51372,
+    "name": "박사 붐의 계략",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "방어도를 +1 얻습니다. <i>(내 턴마다 강화됩니다!)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"해냈어! 금고를 터트렸다고!\" \"금고 문이지 않았나요?\" \"아, 문을 터트리랬나...?\"",
+    "spellSchool": "",
+    "portrait": "HS16-026.psd:5ec663526d0d49859ab79ad2129b3ee4",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_008.png"
+  }
+}

@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_413","dbfId":52109,"name":"잔.악.무.도. 징집관","type":"MINION","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>죽음의 메아리:</b><br></br>무작위 <b>졸개</b>를 내<br></br>손으로 가져옵니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"잔.악.무.도.를 다니고 너의 성공시대 시작된다.","spellSchool":"","portrait":"HS16-069.psd:e386af0f10e34b0c8c9b7fcbc2800a5f","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":994,"name":"졸개","value":1},{"id":1359,"name":"게임 태그 1359","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_413.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-069.psd:e386af0f10e34b0c8c9b7fcbc2800a5f","goldenMaterial":"HS16-069_PremiumCard.mat:1c77f338705cefd46bf5476d318200e2","goldenAnimation":"HS16-069_PremiumCard.asset:f60b09ae889391044a06f51a5f520920"}}
+{
+  "2019-04-10": {
+    "id": "DAL_413",
+    "dbfId": 52109,
+    "name": "잔.악.무.도. 징집관",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>죽음의 메아리:</b><br></br>무작위 <b>졸개</b>를 내<br></br>손으로 가져옵니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "잔.악.무.도.를 다니고 너의 성공시대 시작된다.",
+    "spellSchool": "",
+    "portrait": "HS16-069.psd:e386af0f10e34b0c8c9b7fcbc2800a5f",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 994,
+        "name": "졸개",
+        "value": 1
+      },
+      {
+        "id": 1359,
+        "name": "게임 태그 1359",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_413.png"
+  }
+}

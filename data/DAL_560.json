@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_560","dbfId":52479,"name":"용감한 여관주인","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":8,"text":"<b>도발</b>, <b>전투의 함성:</b> 다른 아군 하수인 하나당 +2/+2를 얻습니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"1/1 하수인에게는 서비스가 제한될 수 있습니다.","spellSchool":"","portrait":"HS16-036.psd:9d3de5ba29ba443cb088c3e701d212b3","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":8},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_560.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-036.psd:9d3de5ba29ba443cb088c3e701d212b3","goldenMaterial":"DAL_560_PremiumCard.mat:1d5db33d5315a824f9b6be6bde0bd29e","goldenAnimation":"DAL_560_PremiumCard.asset:8f7016a679ae25747a8aa8a388b68308"}}
+{
+  "2019-04-10": {
+    "id": "DAL_560",
+    "dbfId": 52479,
+    "name": "용감한 여관주인",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>도발</b>, <b>전투의 함성:</b> 다른 아군 하수인 하나당 +2/+2를 얻습니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "1/1 하수인에게는 서비스가 제한될 수 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS16-036.psd:9d3de5ba29ba443cb088c3e701d212b3",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_560.png"
+  }
+}

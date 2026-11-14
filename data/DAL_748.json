@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_748","dbfId":52942,"name":"마나 저장소","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>주문 공격력 +1</b>","attack":0,"health":6,"durability":0,"armor":0,"flavor":"몸집이 커지면 마나 저수지가 됩니다.","spellSchool":"","portrait":"HS16-054.psd:1ce5b823e3264b5fa013f9844f26ad3e","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":0},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":192,"name":"주문 공격력","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/DAL_748.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-054.psd:1ce5b823e3264b5fa013f9844f26ad3e","goldenMaterial":"DAL_748_PremiumCard.mat:0f6b9b6933034144ea94ceac0d069711","goldenAnimation":"DAL_748_PremiumCard.asset:d4901311948a4c6449458044374f1087"}}
+{
+  "2019-04-10": {
+    "id": "DAL_748",
+    "dbfId": 52942,
+    "name": "마나 저장소",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>주문 공격력 +1</b>",
+    "attack": 0,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "몸집이 커지면 마나 저수지가 됩니다.",
+    "spellSchool": "",
+    "portrait": "HS16-054.psd:1ce5b823e3264b5fa013f9844f26ad3e",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 0
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/DAL_748.png"
+  }
+}

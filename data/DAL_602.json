@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_602","dbfId":52698,"name":"반전","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":2,"text":"내 손에 있는 모든 카드를 내 덱에 섞어 넣습니다. 섞어 넣은 만큼 카드를 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"그러던 어느 날!","spellSchool":"","portrait":"HS16-138.psd:6597fed88cce4c4ab7735b01136dc634","set":"DALARAN","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/DAL_602.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-138.psd:6597fed88cce4c4ab7735b01136dc634","goldenMaterial":"DAL_602_PremiumCard.mat:b6c5ecdf9588eba4abee1f3a34627c53","goldenAnimation":"DAL_602_PremiumCard.asset:cdcd3495b72897c43bfe0e1164fad733"}}
+{
+  "2019-04-10": {
+    "id": "DAL_602",
+    "dbfId": 52698,
+    "name": "반전",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 손에 있는 모든 카드를 내 덱에 섞어 넣습니다. 섞어 넣은 만큼 카드를 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "그러던 어느 날!",
+    "spellSchool": "",
+    "portrait": "HS16-138.psd:6597fed88cce4c4ab7735b01136dc634",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_602.png"
+  }
+}

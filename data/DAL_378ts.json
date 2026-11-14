@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_378ts","dbfId":54145,"name":"야수를 풀어라","type":"SPELL","cardClass":"HUNTER","rarity":"RARE","collectible":false,"cost":6,"text":"<b>속공</b> 능력이 있는 5/5 와이번을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-106.psd:00082234a1d9438f80600605cc385d53","set":"DALARAN","nativeTags":[{"id":47,"name":"공격력","value":0},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":0},{"id":683,"name":"공격력 숨김","value":1},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_378ts.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-106.psd:00082234a1d9438f80600605cc385d53","goldenMaterial":"DAL_378_PremiumCard.mat:680eb61152df65444a20e2520ae9a52b","goldenAnimation":"DAL_378_PremiumCard.asset:3c449736ff29d184ca118e0f0568e564"}}
+{
+  "2019-04-10": {
+    "id": "DAL_378ts",
+    "dbfId": 54145,
+    "name": "야수를 풀어라",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 6,
+    "text": "<b>속공</b> 능력이 있는 5/5 와이번을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-106.psd:00082234a1d9438f80600605cc385d53",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 0
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 683,
+        "name": "공격력 숨김",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_378ts.png"
+  }
+}

@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_577ts","dbfId":54193,"name":"서리 광선","type":"SPELL","cardClass":"MAGE","rarity":"COMMON","collectible":false,"cost":1,"text":"하수인을<br></br><b>빙결</b> 상태로 만듭니다.<br></br>이미 <b>빙결</b> 상태라면,<br></br>피해를 $2 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"FROST","portrait":"HS16-125.psd:2a54fa52981344b999310ae58f78da5e","set":"DALARAN","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":208,"name":"빙결","value":1},{"id":321,"name":"수집 가능","value":0},{"id":1635,"name":"주문 속성","value":3}],"races":[],"race":"","classes":[],"art":"art/DAL_577ts.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-125.psd:2a54fa52981344b999310ae58f78da5e","goldenMaterial":"DAL_577_PremiumCard.mat:e802403925c70b441b0766e423609491","goldenAnimation":"DAL_577_PremiumCard.asset:786adc1905972684a87153e0be262c32"}}
+{
+  "2019-04-10": {
+    "id": "DAL_577ts",
+    "dbfId": 54193,
+    "name": "서리 광선",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 1,
+    "text": "하수인을<br></br><b>빙결</b> 상태로 만듭니다.<br></br>이미 <b>빙결</b> 상태라면,<br></br>피해를 $2 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "FROST",
+    "portrait": "HS16-125.psd:2a54fa52981344b999310ae58f78da5e",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 3
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_577ts.png"
+  }
+}

@@ -1,1 +1,61 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_256t2","dbfId":53302,"name":"나무정령","type":"MINION","cardClass":"DRUID","collectible":false,"cost":1,"text":"","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-101.psd:cb2ab85f9cc245aaa58226ac17bca74f","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":2831,"name":"게임 태그 2831","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_256t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-101.psd:cb2ab85f9cc245aaa58226ac17bca74f","goldenMaterial":"DAL_256t2_PremiumCard.mat:95c126f876b3ca4488fd22f57e720896","goldenAnimation":"DAL_256t2_PremiumCard.asset:3c4723e27a5efa84899cdbab205597b1"}}
+{
+  "2019-04-10": {
+    "id": "DAL_256t2",
+    "dbfId": 53302,
+    "name": "나무정령",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-101.psd:cb2ab85f9cc245aaa58226ac17bca74f",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2831,
+        "name": "게임 태그 2831",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_256t2.png"
+  }
+}

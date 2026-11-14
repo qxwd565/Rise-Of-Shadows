@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_351","dbfId":51779,"name":"고대의 축복","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>이중 주문</b><br></br>내 하수인들에게 +1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"매우 깜찍한 축복입니다.","spellSchool":"NATURE","portrait":"HS16-093.psd:8127bad15d824f20976b959cff6c6404","set":"DALARAN","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1193,"name":"이중 주문","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/DAL_351.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-093.psd:8127bad15d824f20976b959cff6c6404","goldenMaterial":"DAL_351_PremiumCard.mat:5e360a775c5a9df49bd190962f1fca4e","goldenAnimation":"DAL_351_PremiumCard.asset:ed508a0cb28a05b4db601f0b84727097"}}
+{
+  "2019-04-10": {
+    "id": "DAL_351",
+    "dbfId": 51779,
+    "name": "고대의 축복",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>이중 주문</b><br></br>내 하수인들에게 +1/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "매우 깜찍한 축복입니다.",
+    "spellSchool": "NATURE",
+    "portrait": "HS16-093.psd:8127bad15d824f20976b959cff6c6404",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1193,
+        "name": "이중 주문",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_351.png"
+  }
+}

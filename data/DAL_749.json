@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_749","dbfId":52943,"name":"끈질긴 악당","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":5,"text":"<b>죽음의 메아리:</b><br></br>이 하수인의 공격력이<br></br>4 이상이면, 이 하수인을<br></br>다시 소환합니다.","attack":3,"health":6,"durability":0,"armor":0,"flavor":"와하하! 이번엔 절대 잡지 못할 거다!","spellSchool":"","portrait":"HS16-048.psd:26d52c20ad844bd1951a516d24458ad7","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_749.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-048.psd:26d52c20ad844bd1951a516d24458ad7","goldenMaterial":"DAL_749_PremiumCard.mat:6dc62828f2276df4da17953b72114ec1","goldenAnimation":"DAL_749_PremiumCard.asset:e06d78a1d4b9b0c409bbc2404f0bf7f6"}}
+{
+  "2019-04-10": {
+    "id": "DAL_749",
+    "dbfId": 52943,
+    "name": "끈질긴 악당",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>죽음의 메아리:</b><br></br>이 하수인의 공격력이<br></br>4 이상이면, 이 하수인을<br></br>다시 소환합니다.",
+    "attack": 3,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "와하하! 이번엔 절대 잡지 못할 거다!",
+    "spellSchool": "",
+    "portrait": "HS16-048.psd:26d52c20ad844bd1951a516d24458ad7",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_749.png"
+  }
+}

@@ -1,1 +1,91 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_357t","dbfId":51796,"name":"수정껍질의 영혼","type":"MINION","cardClass":"DRUID","collectible":false,"cost":11,"text":"<b>휴면</b> 상태입니다.<br></br>생명력을 5 회복시키면,<br></br>깨어납니다. <i>(5 남음!)</i>","attack":0,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-103.psd:a91ca13d3ebc45b48beafdcf56fb1eb4","set":"DALARAN","nativeTags":[{"id":2,"name":"효과 수치 1","value":5},{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":1},{"id":48,"name":"마나 비용","value":11},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":402,"name":"능력치 숨김","value":1},{"id":448,"name":"대상 지정 불가","value":1},{"id":451,"name":"점수 수치 1","value":5},{"id":1090,"name":"휴면 시각 효과","value":1},{"id":1142,"name":"마우스 카드 표시 방식","value":4},{"id":1518,"name":"휴면","value":1},{"id":1519,"name":"휴면 해제 조건 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_357t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-103.psd:a91ca13d3ebc45b48beafdcf56fb1eb4","goldenMaterial":"DAL_357_PremiumCard.mat:7017e7cdcfee577488ea9452fcc4126d","goldenAnimation":"DAL_357_PremiumCard.asset:e15074dd5d10d5a4b890a5efe665a03c"}}
+{
+  "2019-04-10": {
+    "id": "DAL_357t",
+    "dbfId": 51796,
+    "name": "수정껍질의 영혼",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 11,
+    "text": "<b>휴면</b> 상태입니다.<br></br>생명력을 5 회복시키면,<br></br>깨어납니다. <i>(5 남음!)</i>",
+    "attack": 0,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-103.psd:a91ca13d3ebc45b48beafdcf56fb1eb4",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 5
+      },
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 11
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      },
+      {
+        "id": 448,
+        "name": "대상 지정 불가",
+        "value": 1
+      },
+      {
+        "id": 451,
+        "name": "점수 수치 1",
+        "value": 5
+      },
+      {
+        "id": 1090,
+        "name": "휴면 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1142,
+        "name": "마우스 카드 표시 방식",
+        "value": 4
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      },
+      {
+        "id": 1519,
+        "name": "휴면 해제 조건 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_357t.png"
+  }
+}

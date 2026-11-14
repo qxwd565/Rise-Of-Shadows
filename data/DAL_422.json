@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_422","dbfId":52119,"name":"대악당 라팜","type":"MINION","cardClass":"WARLOCK","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>도발</b>, <b>전투의 함성:</b><br></br>내 손과 덱에 있는 <b>모든</b><br></br>카드를 <b>전설</b> 하수인으로<br></br>교체합니다.","attack":7,"health":8,"durability":0,"armor":0,"flavor":"업무 전에 손을 씻지 않는 하수인들은 제거한 뒤에 다른 졸개로 대체할 것이다!","spellSchool":"","portrait":"HS16-141.tif:0e0e338c8d5a462e92f495ac4f5ce330","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_422.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-141.tif:0e0e338c8d5a462e92f495ac4f5ce330","goldenMaterial":"DAL_422_PremiumCard.mat:a620a89fd16409b44998bf7208f6bb1f","goldenAnimation":"DAL_422_PremiumCard.asset:95d9727d162c10b488696d26600787ae"}}
+{
+  "2019-04-10": {
+    "id": "DAL_422",
+    "dbfId": 52119,
+    "name": "대악당 라팜",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>내 손과 덱에 있는 <b>모든</b><br></br>카드를 <b>전설</b> 하수인으로<br></br>교체합니다.",
+    "attack": 7,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "업무 전에 손을 씻지 않는 하수인들은 제거한 뒤에 다른 졸개로 대체할 것이다!",
+    "spellSchool": "",
+    "portrait": "HS16-141.tif:0e0e338c8d5a462e92f495ac4f5ce330",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_422.png"
+  }
+}

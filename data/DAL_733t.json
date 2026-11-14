@@ -1,1 +1,76 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_733t","dbfId":52839,"name":"수정 드리아드","type":"MINION","cardClass":"DRUID","collectible":false,"cost":1,"text":"<b>생명력 흡수</b>","attack":1,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-098.psd:5f128ce6e9574fd790d58f22ac48953d","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":321,"name":"수집 가능","value":0},{"id":330,"name":"효과 생성 시각 효과","value":1},{"id":331,"name":"효과 지속 시각 효과","value":1},{"id":685,"name":"생명력 흡수","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_733t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-098.psd:5f128ce6e9574fd790d58f22ac48953d","goldenMaterial":"DAL_733t_PremiumCard.mat:d5d64baf6a413254b9a49cf4f8da5f3e","goldenAnimation":"DAL_733t_PremiumCard.asset:f4f8c317070be0c49b58c3882932d132"}}
+{
+  "2019-04-10": {
+    "id": "DAL_733t",
+    "dbfId": 52839,
+    "name": "수정 드리아드",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>생명력 흡수</b>",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-098.psd:5f128ce6e9574fd790d58f22ac48953d",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_733t.png"
+  }
+}

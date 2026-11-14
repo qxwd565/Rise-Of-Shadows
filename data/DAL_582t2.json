@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_582t2","dbfId":52710,"name":"지옥사냥개","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":2,"text":"<b>속공</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-160.tif:7a98c540a9bc4306b940ba996f411ddc","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":321,"name":"수집 가능","value":0},{"id":791,"name":"속공","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/DAL_582t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-160.tif:7a98c540a9bc4306b940ba996f411ddc","goldenMaterial":"DAL_582t2_PremiumCard.mat:333f039ee92f190499c3e426d5710197","goldenAnimation":"DAL_582t2_PremiumCard.asset:6f94d43bcd95d8b4fbe2257dc63a3226"}}
+{
+  "2019-04-10": {
+    "id": "DAL_582t2",
+    "dbfId": 52710,
+    "name": "지옥사냥개",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>속공</b>",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-160.tif:7a98c540a9bc4306b940ba996f411ddc",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/DAL_582t2.png"
+  }
+}

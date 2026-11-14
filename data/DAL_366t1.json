@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_366t1","dbfId":53241,"name":"암살자의 계약서","type":"SPELL","cardClass":"ROGUE","rarity":"EPIC","collectible":false,"cost":6,"text":"하수인을 처치합니다.<br></br>1/2 침착한 암살자를<br></br>소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-134.psd:26d56f295029455b92d1300e6a58c2a6","set":"DALARAN","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4}],"races":[],"race":"","classes":[],"art":"art/DAL_366t1.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-134.psd:26d56f295029455b92d1300e6a58c2a6","goldenMaterial":"DAL_366t1_PremiumCard.mat:77ca61e6c4d24ec469bcc620299714bb","goldenAnimation":"DAL_366t1_PremiumCard.asset:fa05aeccb1feb0c47a9ec1a4f123a289"}}
+{
+  "2019-04-10": {
+    "id": "DAL_366t1",
+    "dbfId": 53241,
+    "name": "암살자의 계약서",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "EPIC",
+    "collectible": false,
+    "cost": 6,
+    "text": "하수인을 처치합니다.<br></br>1/2 침착한 암살자를<br></br>소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-134.psd:26d56f295029455b92d1300e6a58c2a6",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_366t1.png"
+  }
+}

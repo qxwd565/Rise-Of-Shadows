@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_566","dbfId":52487,"name":"별난 주문각인사","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>죽음의 메아리:</b><br></br>1/1 성난 두루마리를<br></br>넷 소환합니다.","attack":6,"health":4,"durability":0,"armor":0,"flavor":"말(물리)로 때립니다.","spellSchool":"","portrait":"HS16-011.psd:10e7cd2f9138477a8ee1861853fde972","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":52827}],"races":[],"race":"","classes":[],"art":"art/DAL_566.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-011.psd:10e7cd2f9138477a8ee1861853fde972","goldenMaterial":"DAL_566_PremiumCard.mat:a25fa5a92683437458efe01530e437a2","goldenAnimation":"DAL_566_PremiumCard.asset:87ae3b55104afe64f815a3a5e78d1d3c"}}
+{
+  "2019-04-10": {
+    "id": "DAL_566",
+    "dbfId": 52487,
+    "name": "별난 주문각인사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>죽음의 메아리:</b><br></br>1/1 성난 두루마리를<br></br>넷 소환합니다.",
+    "attack": 6,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "말(물리)로 때립니다.",
+    "spellSchool": "",
+    "portrait": "HS16-011.psd:10e7cd2f9138477a8ee1861853fde972",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 52827
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_566.png"
+  }
+}

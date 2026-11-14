@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_566t","dbfId":52827,"name":"성난 두루마리","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-012.psd:69466589d6664c37b9199487b1e9c831","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/DAL_566t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-012.psd:69466589d6664c37b9199487b1e9c831","goldenMaterial":"DAL_566t_PremiumCard.mat:8df3051c525849e49abaa0066232e922","goldenAnimation":"DAL_566t_PremiumCard.asset:b9dffd7a6976e76438e592848d158fa2"}}
+{
+  "2019-04-10": {
+    "id": "DAL_566t",
+    "dbfId": 52827,
+    "name": "성난 두루마리",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-012.psd:69466589d6664c37b9199487b1e9c831",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_566t.png"
+  }
+}

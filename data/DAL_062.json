@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_062","dbfId":51737,"name":"휩쓸기 일격","type":"SPELL","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":2,"text":"하수인에게 \"공격하는 대상 양옆의 하수인들에게도 피해를 줌\" 능력을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"싹 휩쓸어버려, 맷!","spellSchool":"","portrait":"HS16-150.psd:ecf30efbd87a4e0bab218c67aa2719a7","set":"DALARAN","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_062.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-150.psd:ecf30efbd87a4e0bab218c67aa2719a7","goldenMaterial":"DAL_062_PremiumCard.mat:100d624864831c24ab01e16d97e1dc8e","goldenAnimation":"DAL_062_PremiumCard.asset:2fc809d56a0671946bd6a5e26f8ad8b2"}}
+{
+  "2019-04-10": {
+    "id": "DAL_062",
+    "dbfId": 51737,
+    "name": "휩쓸기 일격",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인에게 \"공격하는 대상 양옆의 하수인들에게도 피해를 줌\" 능력을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "싹 휩쓸어버려, 맷!",
+    "spellSchool": "",
+    "portrait": "HS16-150.psd:ecf30efbd87a4e0bab218c67aa2719a7",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_062.png"
+  }
+}

@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_354t","dbfId":54315,"name":"다람쥐","type":"MINION","cardClass":"DRUID","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-095.psd:6134716ffaa746199135296d781faa6e","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DAL_354t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-095.psd:6134716ffaa746199135296d781faa6e","goldenMaterial":"DAL_354t_PremiumCard.mat:17656e087749fba4291ea91a0a6af3d0","goldenAnimation":"DAL_354t_PremiumCard.asset:8d35b425ed9e2924c8c9e673645585fc"}}
+{
+  "2019-04-10": {
+    "id": "DAL_354t",
+    "dbfId": 54315,
+    "name": "다람쥐",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-095.psd:6134716ffaa746199135296d781faa6e",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DAL_354t.png"
+  }
+}

@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_047","dbfId":51722,"name":"걸어 다니는 샘","type":"MINION","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":8,"text":"<b>생명력 흡수</b><br></br><b>속공</b><br></br><b>질풍</b>","attack":4,"health":8,"durability":0,"armor":0,"flavor":"가장 이상한 건 걸어 다니면서 다리가 없다는 겁니다.","spellSchool":"","portrait":"HS16-003.psd:0e98bc83f07a479b823a11d5a1cf16fb","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":0},{"id":189,"name":"질풍","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":791,"name":"속공","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/DAL_047.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-003.psd:0e98bc83f07a479b823a11d5a1cf16fb","goldenMaterial":"DAL_047_PremiumCard.mat:fb88c36a2a040b546808a9ea8a16696d","goldenAnimation":"DAL_047_PremiumCard.asset:51e6f48e83ce5104093b2dc590ff351d"}}
+{
+  "2019-04-10": {
+    "id": "DAL_047",
+    "dbfId": 51722,
+    "name": "걸어 다니는 샘",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>생명력 흡수</b><br></br><b>속공</b><br></br><b>질풍</b>",
+    "attack": 4,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "가장 이상한 건 걸어 다니면서 다리가 없다는 겁니다.",
+    "spellSchool": "",
+    "portrait": "HS16-003.psd:0e98bc83f07a479b823a11d5a1cf16fb",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 189,
+        "name": "질풍",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/DAL_047.png"
+  }
+}

@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_010","dbfId":51375,"name":"토그왜글의 계략","type":"SPELL","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":1,"text":"하수인을 선택합니다.<br></br>그 하수인을 1장 복사하여<br></br>내 덱에 섞어 넣습니다.<br></br><i>(내 턴마다 강화됩니다!)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"하수인 많으면 뺏어오는 보물도 많다. 코볼트식 수학이다!\"","spellSchool":"","portrait":"HS16-074.psd:3acef45735d344a2b3a34fcf9608381c","set":"DALARAN","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_010.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-074.psd:3acef45735d344a2b3a34fcf9608381c","goldenMaterial":"DAL_010_PremiumCard.mat:468813d88d9882e4ab12f3dd4b46e115","goldenAnimation":"DAL_010_PremiumCard.asset:ac77e8c3592b3a54caf019c3fc58ef8d"}}
+{
+  "2019-04-10": {
+    "id": "DAL_010",
+    "dbfId": 51375,
+    "name": "토그왜글의 계략",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "하수인을 선택합니다.<br></br>그 하수인을 1장 복사하여<br></br>내 덱에 섞어 넣습니다.<br></br><i>(내 턴마다 강화됩니다!)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"하수인 많으면 뺏어오는 보물도 많다. 코볼트식 수학이다!\"",
+    "spellSchool": "",
+    "portrait": "HS16-074.psd:3acef45735d344a2b3a34fcf9608381c",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_010.png"
+  }
+}

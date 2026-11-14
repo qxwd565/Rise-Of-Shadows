@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_775","dbfId":53249,"name":"땅굴 폭파범","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":7,"text":"<b>도발</b>, <b>죽음의 메아리:</b><br></br><b>모든</b> 하수인에게<br></br>피해를 3 줍니다.","attack":3,"health":7,"durability":0,"armor":0,"flavor":"다들 왜 머리 위에 양초를 올려놓고 있냐고 비웃었죠.","spellSchool":"","portrait":"HS16-009.psd:dea9e9436fe34221b8869ffc1acaffce","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":0},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_775.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-009.psd:dea9e9436fe34221b8869ffc1acaffce","goldenMaterial":"DAL_775_PremiumCard.mat:6bdab019ea42bf146836c7ce3f1d4df9","goldenAnimation":"DAL_775_PremiumCard.asset:00c5ab664dc188e43a66c34a35054bc0"}}
+{
+  "2019-04-10": {
+    "id": "DAL_775",
+    "dbfId": 53249,
+    "name": "땅굴 폭파범",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br><b>모든</b> 하수인에게<br></br>피해를 3 줍니다.",
+    "attack": 3,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "다들 왜 머리 위에 양초를 올려놓고 있냐고 비웃었죠.",
+    "spellSchool": "",
+    "portrait": "HS16-009.psd:dea9e9436fe34221b8869ffc1acaffce",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_775.png"
+  }
+}

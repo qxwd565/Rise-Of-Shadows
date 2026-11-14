@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_747t","dbfId":52941,"name":"그리핀","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":2,"text":"","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-046.psd:9a837db2eccc41fea2f38551c73fb693","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":201,"name":"진영","value":2},{"id":202,"name":"카드 유형","value":4},{"id":251,"name":"게임 태그 251","value":1},{"id":321,"name":"수집 가능","value":0}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DAL_747t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-046.psd:9a837db2eccc41fea2f38551c73fb693","goldenMaterial":"DAL_747t_PremiumCard.mat:8b8c8ef602f53aa4e899c74320662fde","goldenAnimation":"DAL_747t_PremiumCard.asset:e93dcc0794c78cf46a0056f3ec3241de"}}
+{
+  "2019-04-10": {
+    "id": "DAL_747t",
+    "dbfId": 52941,
+    "name": "그리핀",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 2,
+    "text": "",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-046.psd:9a837db2eccc41fea2f38551c73fb693",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DAL_747t.png"
+  }
+}

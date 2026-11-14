@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_550","dbfId":52417,"name":"마법의 뒤안길 수액","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":7,"text":"이 하수인은 피해를 받고 생존한 후에, 이 하수인을 복사하여 소환합니다.","attack":3,"health":5,"durability":0,"armor":0,"flavor":"무기를 파괴하진 않지만 아주 험상궂은 수액입니다.","spellSchool":"","portrait":"HS16-072.psd:caf58905361c4667b37f39c2a8cfd52c","set":"DALARAN","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_550.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-072.psd:caf58905361c4667b37f39c2a8cfd52c","goldenMaterial":"DAL_550_PremiumCard.mat:08022d8e97099f1408942f88c589d900","goldenAnimation":"DAL_550_PremiumCard.asset:46c557d34c25e5f49a2f9e0c8558a41d"}}
+{
+  "2019-04-10": {
+    "id": "DAL_550",
+    "dbfId": 52417,
+    "name": "마법의 뒤안길 수액",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 7,
+    "text": "이 하수인은 피해를 받고 생존한 후에, 이 하수인을 복사하여 소환합니다.",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "무기를 파괴하진 않지만 아주 험상궂은 수액입니다.",
+    "spellSchool": "",
+    "portrait": "HS16-072.psd:caf58905361c4667b37f39c2a8cfd52c",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_550.png"
+  }
+}

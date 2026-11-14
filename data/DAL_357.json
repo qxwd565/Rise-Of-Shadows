@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_357","dbfId":51795,"name":"수정껍질","type":"MINION","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>도발</b>, <b>죽음의 메아리:</b><br></br><b>휴면</b> 상태가 됩니다.<br></br>생명력을 5 회복시키면,<br></br>깨어납니다.","attack":4,"health":8,"durability":0,"armor":0,"flavor":"죽음은 탈출구가 아닙니다.","spellSchool":"","portrait":"HS16-103.psd:a91ca13d3ebc45b48beafdcf56fb1eb4","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1518,"name":"휴면","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_357.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-103.psd:a91ca13d3ebc45b48beafdcf56fb1eb4","goldenMaterial":"DAL_357_PremiumCard.mat:7017e7cdcfee577488ea9452fcc4126d","goldenAnimation":"DAL_357_PremiumCard.asset:e15074dd5d10d5a4b890a5efe665a03c"}}
+{
+  "2019-04-10": {
+    "id": "DAL_357",
+    "dbfId": 51795,
+    "name": "수정껍질",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br><b>휴면</b> 상태가 됩니다.<br></br>생명력을 5 회복시키면,<br></br>깨어납니다.",
+    "attack": 4,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "죽음은 탈출구가 아닙니다.",
+    "spellSchool": "",
+    "portrait": "HS16-103.psd:a91ca13d3ebc45b48beafdcf56fb1eb4",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_357.png"
+  }
+}

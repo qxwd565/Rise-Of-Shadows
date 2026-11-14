@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_377","dbfId":52082,"name":"아홉 개의 생명","type":"SPELL","cardClass":"HUNTER","rarity":"EPIC","collectible":true,"cost":3,"text":"이번 게임에서 죽은 아군 <b>죽음의 메아리</b> 하수인을 <b>발견</b>합니다. 그 하수인의 <b>죽음의 메아리</b>도 발동시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"영원한 사냥이 시작됩니다.","spellSchool":"","portrait":"HS16-108.psd:3e0e518231d24eedb2d2508a5fae81c0","set":"DALARAN","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/DAL_377.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-108.psd:3e0e518231d24eedb2d2508a5fae81c0","goldenMaterial":"DAL_377_PremiumCard.mat:1c78a45e708ef1a43a4a14c57c38115d","goldenAnimation":"DAL_377_PremiumCard.asset:0d75994887c9e9c4eb979f3ef2ed2f9a"}}
+{
+  "2019-04-10": {
+    "id": "DAL_377",
+    "dbfId": 52082,
+    "name": "아홉 개의 생명",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "이번 게임에서 죽은 아군 <b>죽음의 메아리</b> 하수인을 <b>발견</b>합니다. 그 하수인의 <b>죽음의 메아리</b>도 발동시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "영원한 사냥이 시작됩니다.",
+    "spellSchool": "",
+    "portrait": "HS16-108.psd:3e0e518231d24eedb2d2508a5fae81c0",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DAL_377.png"
+  }
+}

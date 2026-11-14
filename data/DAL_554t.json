@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DAL_554t","dbfId":53310,"name":"바짝 탄 정령","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":6,"text":"","attack":6,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS16-043.psd:d5410bccb10947f5b130f47ecaee3905","set":"DALARAN","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":251,"name":"게임 태그 251","value":1},{"id":321,"name":"수집 가능","value":0}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/DAL_554t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS16-043.psd:d5410bccb10947f5b130f47ecaee3905","goldenMaterial":"DAL_554t_PremiumCard.mat:1db76b8b6b7f88c47ab09823d596e05e","goldenAnimation":"DAL_554t_PremiumCard.asset:2cdbb0625d045224d942db05efd5ff99"}}
+{
+  "2019-04-10": {
+    "id": "DAL_554t",
+    "dbfId": 53310,
+    "name": "바짝 탄 정령",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 6,
+    "text": "",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS16-043.psd:d5410bccb10947f5b130f47ecaee3905",
+    "set": "DALARAN",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/DAL_554t.png"
+  }
+}
